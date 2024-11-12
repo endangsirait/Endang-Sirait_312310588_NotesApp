@@ -1,3 +1,10 @@
+Nama : Endang Sirait
+Kelas : TI.23.A6
+NIM : 312310588
+MatKul : Pemograman Mobile 1
+
+
+
 ![image](https://github.com/user-attachments/assets/97fdf714-7485-4c93-a274-3c6131dfc186)
 
 
