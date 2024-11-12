@@ -1,7 +1,8 @@
-|     Nama : Endang Sirait          |
-|     Kelas : TI.23.A6              |
-|     NIM : 312310588               |
-|     MatKul : Pemograman Mobile 1  |
+|Nama : Endang Sirait|
+|-------|
+|Kelas : TI.23.A6|
+|NIM : 312310588|
+|MatKul : Pemograman Mobile 1|
 
 
 
