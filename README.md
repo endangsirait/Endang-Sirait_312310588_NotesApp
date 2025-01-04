@@ -1,4 +1,4 @@
-# Notes_App
+# Endang Sirait_312310588_NotesApp
 
 
 ![image](https://github.com/user-attachments/assets/eacfb4c7-41af-43dd-b782-494369a5cf97)
